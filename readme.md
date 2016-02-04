@@ -1,4 +1,4 @@
 using nvm
 - `nvm use stable`
 - `npm install`
-- `babel index.js`
+- `babel-node index.js`

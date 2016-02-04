@@ -1,4 +1,4 @@
-import Vehicle from './lib/vehicle';
+import Vehicle from './src/vehicle';
 const {log} = console;
 
 let v1 = new Vehicle('Car', 'HY-8244');

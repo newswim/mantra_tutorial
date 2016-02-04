@@ -9,6 +9,7 @@ export default class Vehicle {
   start() {
     this._startHandler = setInterval(() => {
       this.fuel--;
+      console.log(`fuel: ${this.fuel}`)
     }, 500);
   }
 
