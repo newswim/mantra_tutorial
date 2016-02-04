@@ -1,0 +1,28 @@
+{
+  "name": "mantra_tutorial",
+  "version": "1.0.0",
+  "description": "Working through the Mantra Tutorial from Kadira",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test",
+    "build": "babel src -d lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/newswim/mantra_tutorial.git"
+  },
+  "keywords": [
+    "mantra",
+    "tutorial"
+  ],
+  "author": "Dan Minshew",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/newswim/mantra_tutorial/issues"
+  },
+  "homepage": "https://github.com/newswim/mantra_tutorial#readme",
+  "devDependencies": {
+    "babel-cli": "6.4.5",
+    "babel-core": "6.4.5"
+  }
+}
